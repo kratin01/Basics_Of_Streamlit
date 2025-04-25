@@ -1,0 +1,9 @@
+OrderID,CustomerName,PizzaType,Size,Quantity,PricePerPizza,OrderDate
+101,Alice,Margherita,Medium,1,8,2025-04-01
+102,Bob,Pepperoni,Large,2,12,2025-04-02
+103,Charlie,Veggie,Small,1,7,2025-04-03
+104,David,BBQ Chicken,Medium,3,10,2025-04-04
+105,Eva,Hawaiian,Large,2,11,2025-04-05
+106,Frank,Margherita,Small,1,8,2025-04-06
+107,Grace,Meat Lovers,Large,2,13,2025-04-07
+108,Hannah,Margherita,Medium,1,8,2025-04-08
