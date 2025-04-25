@@ -20,7 +20,7 @@ A simple demo showcasing fundamental Streamlit elements like headers, select box
 - `selectbox` for language selection
 - Feedback using `st.success`
 
-🔗 **[Open 01Basic App](https://01basic-your-username.streamlit.app)**
+🔗 **[Open 01Basic App](https://01basic.streamlit.app/)**
 
 ---
 
