@@ -35,7 +35,7 @@ An interactive 🍕 pizza ordering form where users can input their details, pic
 - Category-based dynamic UI
 - Slider and `st.balloons()` for fun!
 
-🔗 **[Open Pizza Order App](https://02widgets-your-username.streamlit.app)**
+🔗 **[Open Pizza Order App](https://02widgets.streamlit.app/)**
 
 ---
 
@@ -49,7 +49,7 @@ Explore the power of Streamlit layouts with columns, sidebars, markdown, and exp
 - Sidebar with food options
 - Markdown + expanders for cleaner UI
 
-🔗 **[Open Layouts App](https://03layouts-your-username.streamlit.app)**
+🔗 **[Open Layouts App](https://03layouts.streamlit.app/)**
 
 ---
 
@@ -63,7 +63,7 @@ Upload your pizza sales data 📊 and interact with it using filtering and summa
 - Summary statistics using `describe()`
 - Filter by `Size` column values
 
-🔗 **[Open Data Handling App](https://04datahandling-your-username.streamlit.app)**
+🔗 **[Open Data Handling App](https://04datahandling.streamlit.app/)**
 
 ---
 
@@ -77,7 +77,7 @@ Convert between world currencies in real time using a public API 🌐💸
 - Live exchange rate fetch
 - Realtime conversion and timestamp
 
-🔗 **[Open Currency Converter](https://05webrequest-your-username.streamlit.app)**
+🔗 **[Open Currency Converter](https://05webrequest.streamlit.app/)**
 
 ---
 
